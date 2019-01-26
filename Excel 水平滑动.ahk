@@ -37,3 +37,7 @@ Capslock::Esc
 #Enter::
 	send, {End} {Enter}
 return
+
+
+; disable the win+tab
+#Tab::return

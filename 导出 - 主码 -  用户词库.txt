@@ -1,0 +1,8 @@
+﻿---config@码表分类=主码-用户码表
+---config@码表别名= 用户词库
+单元格	dyge
+蝠	fui
+栎	li
+熟练度	uldu
+脂肪酸	vfsr
+隩	yue
