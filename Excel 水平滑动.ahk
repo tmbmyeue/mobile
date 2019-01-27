@@ -41,3 +41,9 @@ return
 
 ; disable the win+tab
 #Tab::return
+
+; select text
++!h::SendInput +{LEFT} 
++!l::SendInput +{RIGHT}
++!j::SendInput +{DOWN}
++!k::SendInput +{UP}
