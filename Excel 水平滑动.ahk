@@ -47,3 +47,6 @@ return
 +!l::SendInput +{RIGHT}
 +!j::SendInput +{DOWN}
 +!k::SendInput +{UP}
+
+; delete
+!d::send {Del}
